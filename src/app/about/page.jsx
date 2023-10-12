@@ -16,13 +16,13 @@ const About = () => {
       <div className={styles.rightSection}>
         <div className={styles.title}> About me</div>
         <div className={styles.desc}>
-          I'm Haseeb Ul Hasan, a dedicated front-end web developer with a
+          I am Haseeb Ul Hasan, a dedicated front-end web developer with a
           passion for crafting engaging and user-friendly digital experiences.
           With expertise in HTML, CSS, JavaScript, React, NextJS and Angular
           Frontend UI I specialize in translating design concepts into
           responsive and visually appealing websites. I thrive on collaborating
           with teams to deliver seamless interfaces that elevate user
-          interactions and drive engagement. Let's build something exceptional
+          interactions and drive engagement. Lets build something exceptional
           together.
         </div>
 
