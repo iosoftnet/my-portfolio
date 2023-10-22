@@ -1,9 +1,9 @@
+
 import Navbar from '@/components/navbar/page'
 import './globals.css'
 import { Inter } from 'next/font/google'
 import Footer from '@/components/footer/page'
-
-const inter = Inter({ subsets: ['latin'] })
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const metadata = {
   title: 'Haseeb ul Hasan',
@@ -13,7 +13,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body>
         <Navbar />
         {children}
         <Footer />

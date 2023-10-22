@@ -103,18 +103,6 @@ const Project = () => {
           </div>
           <div> Skyloov Property Portal </div>
         </Link>
-
-        <Link href="https://aqaryint.com" target="_blank" className={styles.project}>
-          <div className={styles.imageCont}>
-            <Image
-              src="/aqary.jpg"
-              fill
-              alt="project image"
-              className={styles.image}
-            />
-          </div>
-          <div> Aqary International </div>
-        </Link>
       </div>
     </div>
   );

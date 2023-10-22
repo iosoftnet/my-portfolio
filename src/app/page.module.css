@@ -21,7 +21,7 @@
   -webkit-text-fill-color: transparent;
 }
 
-.desc{
+.desc {
   font-size: 16px;
   font-weight: 400;
 }
@@ -55,5 +55,32 @@
   }
   to {
     transform: translateY(0px) scale(1.03);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    padding: 0px;
+    flex-direction: column-reverse;
+    gap: 48px;
+    padding: 60px 0px;
+  }
+  .image {
+    width: 250px;
+    height: 250px;
+  }
+  .downloadBtn {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .personalInfo {
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+  }
+  .title {
+    font-size: 36px;
+    text-align: center;
   }
 }

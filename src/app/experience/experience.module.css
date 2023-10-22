@@ -88,3 +88,27 @@
 .list{
     text-align: left;
 }
+
+@media only screen and (max-width: 600px) {
+
+    .container{
+        flex-direction: column;
+        margin: 48px 0px;
+    }
+
+    .title{
+       display: none;
+    }
+
+    .experience{
+        min-width: 330px
+    }
+    
+    .keyPoint, .headingTitle{
+        width: 315px;
+    }
+    .experienceDiv{
+        justify-content: center;
+    }
+    
+  }

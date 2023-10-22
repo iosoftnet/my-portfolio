@@ -54,3 +54,33 @@
     height: 100%;
     object-fit: contain;
 }
+
+@media only screen and (max-width: 600px) {
+
+    .container{
+        margin: 24px 0px;
+    }
+    .projectsDiv {
+      padding:0px;
+      gap: 16px;
+    }
+    .title{
+       display: none;
+    }
+    .imageCont{
+        width: 110px;
+        height: 110px;
+    }
+    .project{
+        padding: 12px;
+        border-radius: 20px;
+        width: 145px;
+        min-width: 155px;
+        min-height: 190px;
+        justify-content: center;
+        gap: 12px;
+    }
+    .projectsDiv{
+        justify-content: center;
+    }
+  }
