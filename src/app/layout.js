@@ -1,7 +1,6 @@
 
 import Navbar from '@/components/navbar/page'
 import './globals.css'
-import { Inter } from 'next/font/google'
 import Footer from '@/components/footer/page'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
