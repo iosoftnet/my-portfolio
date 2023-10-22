@@ -80,7 +80,7 @@ const Project = () => {
           <div> Json Placeholder API </div>
         </Link>
 
-        <Link href="" target="_blank" className={styles.project}>
+        <Link href="https://www.haseeb-ul-hasan.com" target="_blank" className={styles.project}>
           <div className={styles.imageCont}>
             <Image
               src="/portfolio.png"
