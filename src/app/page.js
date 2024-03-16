@@ -13,13 +13,27 @@ export default function Home() {
         </div>
 
         <div className={styles.desc}>
-         A Frontend focused Web Developer buildings the Frontend of Websites and
-         Web Application that leads to the success of the overall Products.
+          A Frontend focused Web Developer buildings the Frontend of Websites
+          and Web Application that leads to the success of the overall Products.
         </div>
 
         <div className={styles.downloadBtn}>
-          <Link className={styles.download} href="/haseebCv.pdf" download target="_blank">Download CV</Link>
-          <Link className={styles.download} href="/coverLetter.pdf" download target="_blank">Download Cover Letter</Link>
+          <Link
+            className={styles.download}
+            href="/haseebCv.pdf"
+            download
+            target="_blank"
+          >
+            Download CV
+          </Link>
+          <Link
+            className={styles.download}
+            href="/coverLetter.pdf"
+            download
+            target="_blank"
+          >
+            Download Cover Letter
+          </Link>
         </div>
       </div>
 

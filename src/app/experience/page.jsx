@@ -11,7 +11,7 @@ const Experience = () => {
         <div className={styles.experience}>
           <div className={styles.headingTitle}>
             <div className={styles.heading}> Frontend Developer </div>
-            <div className={styles.subHeading}> Oct 2023 - Present </div>
+            <div className={styles.subHeading}> Sep 2023 - Present </div>
           </div>
           <div className={styles.location}>
             {" "}
@@ -48,7 +48,7 @@ const Experience = () => {
         <div className={styles.experience}>
           <div className={styles.headingTitle}>
             <div className={styles.heading}> Frontend Developer </div>
-            <div className={styles.subHeading}> Oct 2022 - July 2023 </div>
+            <div className={styles.subHeading}> Oct 2022 - Sep 2023 </div>
           </div>
           <div className={styles.location}>
             Skyloov Property Portal Duabi, UAE
@@ -131,10 +131,11 @@ const Experience = () => {
                 using HTML, CSS, JavaScript, React JS{" "}
               </li>
               <li className={styles.list}>
-              works with Senior developers to improve the appearance of a website. 
+                works with Senior developers to improve the appearance of a
+                website.
               </li>
               <li className={styles.list}>
-              Build reusable code and libraries for future use
+                Build reusable code and libraries for future use
               </li>
               <li className={styles.list}>
                 {" "}
