@@ -8,7 +8,7 @@ export default function Home() {
       <div className={styles.personalInfo}>
         <div className={styles.title}>
           Its me, <br />
-          Haseeb Ul Hasan, <br />
+          Muhammad Ishaq, <br />
           Front End Developer
         </div>
 
@@ -38,7 +38,7 @@ export default function Home() {
       </div>
 
       <div className={styles.image}>
-        <Image src="/haseeb.jpg" fill alt="hasseb image" />
+        <Image src="/ishaq.jpg" fill alt="hasseb image" />
       </div>
     </div>
   );

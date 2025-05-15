@@ -18,7 +18,7 @@ const Contact = () => {
       <div className={styles.contactDiv}>
         <div className={styles.contact}>
           <div className={styles.heading}> Phone </div>
-          <div className={styles.subHeading}> +971 506322498 </div>
+          <div className={styles.subHeading}> +971 56 2123845 </div>
           <div className={styles.icon}>
             {" "}
             <CallIcon sx={{ color: "#53c28b" }} />{" "}
@@ -27,7 +27,7 @@ const Contact = () => {
 
         <div className={styles.contact}>
           <div className={styles.heading}> Email </div>
-          <div className={styles.subHeading}> huhassan88@gmail.com </div>
+          <div className={styles.subHeading}> iosoftnet@gmail.com </div>
           <div className={styles.icon}>
             {" "}
             <EmailIcon sx={{ color: "#53c28b" }} />{" "}
@@ -46,16 +46,16 @@ const Contact = () => {
         <div className={styles.contact}>
           <div className={styles.heading}> Follow me </div>
           <div className={styles.socailLinks}>
-          <Link href="https://www.facebook.com/huhassan88/" target="_blank">
+          <Link href="https://www.facebook.com/ishaq.afridi.161009/" target="_blank">
           <FacebookIcon sx={{ color: "#fff "}} />
         </Link>
-        <Link href="https://www.instagram.com/imhaseebulhasan/" target="_blank">
+        <Link href="https://www.instagram.com/ishaqafrid/" target="_blank">
           <InstagramIcon sx={{ color: "#fff "}} />
         </Link>
-        <Link href="https://www.linkedin.com/in/haseeb-ul-hasan-203259164/" target="_blank">
+        <Link href="https://www.linkedin.com/in/muhammad-ishaq099/" target="_blank">
           <LinkedInIcon sx={{ color: "#fff "}} />
         </Link>
-        <Link href="https://github.com/HaseebUlHasan" target="_blank">
+        <Link href="https://github.com/iosoftnet" target="_blank">
           <GitHubIcon sx={{ color: "#fff "}} />
         </Link>
           </div>

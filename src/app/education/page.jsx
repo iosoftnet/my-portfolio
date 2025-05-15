@@ -9,8 +9,8 @@ const Education = () => {
         <div className={styles.contactDiv}>
 
         <div className={styles.contact}>
-          <div className={styles.heading}> BS Software Engineering </div>
-          <div className={styles.subHeading}> 2017 - 2021 </div>
+          <div className={styles.heading}> BS Computer Science </div>
+          <div className={styles.subHeading}> 2016 - 2020 </div>
           <div className={styles.icon}>
             
             <BusinessCenterIcon sx={{ color: "#53c28b" }} />
@@ -19,7 +19,7 @@ const Education = () => {
 
         <div className={styles.contact}>
           <div className={styles.heading}> FSC Pre Engineering </div>
-          <div className={styles.subHeading}> 2015 - 2017 </div>
+          <div className={styles.subHeading}> 2013 - 2015 </div>
           <div className={styles.icon}>
             
             <BusinessCenterIcon sx={{ color: "#53c28b" }} />
@@ -28,7 +28,7 @@ const Education = () => {
 
         <div className={styles.contact}>
           <div className={styles.heading}> Matric </div>
-          <div className={styles.subHeading}> 2015 </div>
+          <div className={styles.subHeading}> 2013 </div>
           <div className={styles.icon}>
             <BusinessCenterIcon sx={{ color: "#53c28b" }} />
           </div>

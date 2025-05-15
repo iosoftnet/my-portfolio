@@ -11,11 +11,11 @@ const Experience = () => {
         <div className={styles.experience}>
           <div className={styles.headingTitle}>
             <div className={styles.heading}> Frontend Developer </div>
-            <div className={styles.subHeading}> Sep 2023 - Present </div>
+            <div className={styles.subHeading}> Aug 2023 - Present </div>
           </div>
           <div className={styles.location}>
             {" "}
-            Aqary International Group Abu Dhabi, UAE{" "}
+            Open Home Properties Abu Dhabi, UAE{" "}
           </div>
           <div className={styles.icon}>
             <WorkIcon sx={{ color: "#53c28b" }} />
@@ -40,7 +40,7 @@ const Experience = () => {
                 {" "}
                 Showcasing property details, images, and descriptions{" "}
               </li>
-              <li className={styles.list}> React, Next.js, Material-UI </li>
+              <li className={styles.list}> Wordpress, React, Next.js, Material-UI, Webflow </li>
             </ul>
           </div>
         </div>
@@ -51,7 +51,7 @@ const Experience = () => {
             <div className={styles.subHeading}> Oct 2022 - Sep 2023 </div>
           </div>
           <div className={styles.location}>
-            Skyloov Property Portal Duabi, UAE
+            Aqary International Group Abu Dhabi, UAE
           </div>
 
           <div className={styles.icon}>
