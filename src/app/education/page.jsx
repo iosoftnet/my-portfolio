@@ -13,7 +13,7 @@ const Education = () => {
           <div className={styles.subHeading}> 2016 - 2020 </div>
           <div className={styles.icon}>
             
-            <BusinessCenterIcon sx={{ color: "#53c28b" }} />
+            <BusinessCenterIcon sx={{ color: "#ae9402" }} />
           </div>
         </div>
 
@@ -22,7 +22,7 @@ const Education = () => {
           <div className={styles.subHeading}> 2013 - 2015 </div>
           <div className={styles.icon}>
             
-            <BusinessCenterIcon sx={{ color: "#53c28b" }} />
+            <BusinessCenterIcon sx={{ color: "#ae9402" }} />
           </div>
         </div>
 
@@ -30,7 +30,7 @@ const Education = () => {
           <div className={styles.heading}> Matric </div>
           <div className={styles.subHeading}> 2013 </div>
           <div className={styles.icon}>
-            <BusinessCenterIcon sx={{ color: "#53c28b" }} />
+            <BusinessCenterIcon sx={{ color: "#ae9402" }} />
           </div>
         </div>
 

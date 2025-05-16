@@ -14,7 +14,7 @@ const AppBar = () => {
       <Navbar expand="sm" className="w-100">
         <Container>
           <Navbar.Brand className={styles.name} href="/">
-            Haseeb Ul Hasan
+            Muhammad Ishaq
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="offcanvasNavbar-expand-sm" className={styles.toggle}/>
           <Navbar.Offcanvas

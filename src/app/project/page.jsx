@@ -8,28 +8,28 @@ const Project = () => {
       <div className={styles.title}> Projects </div>
 
       <div className={styles.projectsDiv}>
-        <Link href="https://playing-dice.netlify.app/" target="_blank" className={styles.project}>
+        <Link href="https://openhomegroup.com/" target="_blank" className={styles.project}>
           <div className={styles.imageCont}>
             <Image
-              src="/dice.png"
+              src="/openhomegroup.jpeg"
               fill
               alt="project image"
               className={styles.image}
             />
           </div>
-          <div> Dice Game </div>
+          <div> Open Home Properties </div>
         </Link>
 
-        <Link href="https://netflix-my-movie-clone.netlify.app/" target="_blank" className={styles.project}>
+        <Link href="https://ghala.estate/" target="_blank" className={styles.project}>
           <div className={styles.imageCont}>
             <Image
-              src="/netflix.png"
+              src="/ghala-real.jpeg"
               fill
               alt="project image"
               className={styles.image}
             />
           </div>
-          <div> Netflix Clone </div>
+          <div> Ghala Real Estate </div>
         </Link>
 
         <Link href="https://outlast-book.netlify.app/"  target="_blank" className={styles.project}>
@@ -80,7 +80,7 @@ const Project = () => {
           <div> Json Placeholder API </div>
         </Link>
 
-        <Link href="https://www.haseeb-ul-hasan.com" target="_blank" className={styles.project}>
+        <Link href="https://www.iosoftnet.com" target="_blank" className={styles.project}>
           <div className={styles.imageCont}>
             <Image
               src="/portfolio.png"
@@ -95,13 +95,13 @@ const Project = () => {
         <Link href="https://skyloov.com/" target="_blank" className={styles.project}>
           <div className={styles.imageCont}>
             <Image
-              src="/skyloov.png"
+              src="/aqary.jpg"
               fill
               alt="project image"
               className={styles.image}
             />
           </div>
-          <div> Skyloov Property Portal </div>
+          <div> AQARY INTERNATIONAL GROUP </div>
         </Link>
       </div>
     </div>

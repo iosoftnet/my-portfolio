@@ -75,6 +75,20 @@ const Skills = () => {
            </div>
             <div> Github </div>
         </div>
+
+        <div className={styles.skill}>
+           <div className={styles.imageCont}>
+           <Image src="/wordpress.png" fill alt="skill image" className={styles.image}/>
+           </div>
+            <div> WordPress </div>
+        </div>
+
+        <div className={styles.skill}>
+           <div className={styles.imageCont}>
+           <Image src="/webflow.png" fill alt="skill image" className={styles.image}/>
+           </div>
+            <div> Webflow </div>
+        </div>
       </div>
     </div>
   )

@@ -16,11 +16,8 @@
 
 .title {
   font-size: 48px;
-<<<<<<< HEAD
   background: linear-gradient(to bottom, #ae9402, #bbb);
-=======
-  background: linear-gradient(to bottom, #194c33, #bbb);
->>>>>>> e345c39 (initial commit)
+  background: linear-gradient(to bottom, #ae9402, #bbb);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -39,7 +36,6 @@
   text-decoration: none;
   cursor: pointer;
   padding: 10px;
-<<<<<<< HEAD
   border: 1px solid #ae9402;
   border-radius: 5px;
   width: max-content;
@@ -51,19 +47,17 @@
   height: 500px;
   overflow: hidden;
   border-radius: 10px;
-=======
-  border: 1px solid #53c28b;
+  border: 1px solid #ae9402;
   border-radius: 5px;
   width: max-content;
-  color: #53c28b;
+  color: #ae9402;
 }
 .image {
   position: relative;
-  width: 350px;
-  height: 350px;
+  width: 400px;
+  height: 500px;
   overflow: hidden;
-  border-radius: 50%;
->>>>>>> e345c39 (initial commit)
+  border-radius: 10px;
   animation: move 3s infinite ease alternate;
 }
 

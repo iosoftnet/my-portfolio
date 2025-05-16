@@ -20,7 +20,7 @@ export default function Home() {
         <div className={styles.downloadBtn}>
           <Link
             className={styles.download}
-            href="/haseebCv.pdf"
+            href="/M-Ishaq-Resume.pdf"
             download
             target="_blank"
           >
@@ -38,7 +38,7 @@ export default function Home() {
       </div>
 
       <div className={styles.image}>
-        <Image src="/ishaq.jpg" fill alt="hasseb image" />
+        <Image src="/ishaq.jpg" fill alt="muhammad image" />
       </div>
     </div>
   );

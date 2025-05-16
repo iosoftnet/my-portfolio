@@ -10,7 +10,7 @@ const Footer = () => {
     <div className={styles.container}>
       <div className={styles.copyRight}>
         {" "}
-        © 2023 Haseebulhasan. All rights reserved{" "}
+        © 2023 Muhammad Ishaq. All rights reserved{" "}
       </div>
       <div className={styles.socailLinks}>
         <Link href="https://www.facebook.com/huhassan88/" target="_blank">

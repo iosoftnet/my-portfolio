@@ -18,7 +18,7 @@ const Experience = () => {
             Open Home Properties Abu Dhabi, UAE{" "}
           </div>
           <div className={styles.icon}>
-            <WorkIcon sx={{ color: "#53c28b" }} />
+            <WorkIcon sx={{ color: "#ae9402" }} />
           </div>
           <div>
             <ul className={styles.keyPoint}>
@@ -55,7 +55,7 @@ const Experience = () => {
           </div>
 
           <div className={styles.icon}>
-            <WorkIcon sx={{ color: "#53c28b" }} />
+            <WorkIcon sx={{ color: "#ae9402" }} />
           </div>
 
           <div>
@@ -81,6 +81,43 @@ const Experience = () => {
               </li>
             </ul>
           </div>
+        </div> 
+
+        <div className={styles.experience}>
+          <div className={styles.headingTitle}>
+            <div className={styles.heading}> Frontend Developer </div>
+            <div className={styles.subHeading}> Dec 2021 - 2022 </div>
+          </div>
+          <div className={styles.location}>
+            {" "}
+            Ghala Real Estate Abu Dhabi, UAE{" "}
+          </div>
+          <div className={styles.icon}>
+            <WorkIcon sx={{ color: "#ae9402" }} />
+          </div>
+          <div>
+            <ul className={styles.keyPoint}>
+              <li className={styles.list}>
+                {" "}
+                Real Estate Properties, Mangement, Media{" "}
+              </li>
+              <li className={styles.list}>
+                {" "}
+                Prioritizing intuitive design for property listings, search
+                functionality, Service, blogs, Companies Mangement, Projects,
+                Agents etc
+              </li>
+              <li className={styles.list}>
+                {" "}
+                Ensuring seamless browsing on various devices{" "}
+              </li>
+              <li className={styles.list}>
+                {" "}
+                Showcasing property details, images, and descriptions{" "}
+              </li>
+              <li className={styles.list}> Wordpress, React, Next.js, Material-UI, Webflow </li>
+            </ul>
+          </div>
         </div>
 
         <div className={styles.experience}>
@@ -91,7 +128,7 @@ const Experience = () => {
           <div className={styles.location}> Cloudtek, Islamabad Pakistan </div>
 
           <div className={styles.icon}>
-            <WorkIcon sx={{ color: "#53c28b" }} />
+            <WorkIcon sx={{ color: "#ae9402" }} />
           </div>
           <div>
             <ul className={styles.keyPoint}>
@@ -120,7 +157,7 @@ const Experience = () => {
           <div className={styles.location}> Asimplify, Islamabad Pakistan </div>
 
           <div className={styles.icon}>
-            <WorkIcon sx={{ color: "#53c28b" }} />
+            <WorkIcon sx={{ color: "#ae9402" }} />
           </div>
 
           <div>

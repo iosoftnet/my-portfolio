@@ -21,7 +21,7 @@ const Contact = () => {
           <div className={styles.subHeading}> +971 56 2123845 </div>
           <div className={styles.icon}>
             {" "}
-            <CallIcon sx={{ color: "#53c28b" }} />{" "}
+            <CallIcon sx={{ color: "#ae9402" }} />{" "}
           </div>
         </div>
 
@@ -30,7 +30,7 @@ const Contact = () => {
           <div className={styles.subHeading}> iosoftnet@gmail.com </div>
           <div className={styles.icon}>
             {" "}
-            <EmailIcon sx={{ color: "#53c28b" }} />{" "}
+            <EmailIcon sx={{ color: "#ae9402" }} />{" "}
           </div>
         </div>
 
@@ -39,7 +39,7 @@ const Contact = () => {
           <div className={styles.subHeading}> Abu Dhabi, UAE </div>
           <div className={styles.icon}>
             {" "}
-            <FmdGoodIcon sx={{ color: "#53c28b" }} />{" "}
+            <FmdGoodIcon sx={{ color: "#ae9402" }} />{" "}
           </div>
         </div>
 
@@ -61,7 +61,7 @@ const Contact = () => {
           </div>
           <div className={styles.icon}>
             {" "}
-            <ShareIcon sx={{ color: "#53c28b" }} />{" "}
+            <ShareIcon sx={{ color: "#ae9402" }} />{" "}
           </div>
         </div>
       </div>

@@ -19,7 +19,7 @@ const About = () => {
           I am Muhammad Ishaq, a dedicated front-end web developer with a
           passion for crafting engaging and user-friendly digital experiences.
           With expertise in HTML, CSS, JavaScript, React, NextJS and Angular other CMS like Wordpress, WebFlow
-          Frontend UI I specialize in translating design concepts into
+          Frontend UI. I specialize in translating design concepts into
           responsive and visually appealing websites. I thrive on collaborating
           with teams to deliver seamless interfaces that elevate user
           interactions and drive engagement. Lets build something exceptional
