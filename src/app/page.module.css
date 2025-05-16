@@ -42,10 +42,10 @@
 }
 .image {
   position: relative;
-  width: 350px;
-  height: 350px;
+  width: 400px;
+  height: 500px;
   overflow: hidden;
-  border-radius: 50%;
+  border-radius: 10px;
   animation: move 3s infinite ease alternate;
 }
 
