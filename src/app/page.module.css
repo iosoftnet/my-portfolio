@@ -16,7 +16,7 @@
 
 .title {
   font-size: 48px;
-  background: linear-gradient(to bottom, #194c33, #bbb);
+  background: linear-gradient(to bottom, #ae9402, #bbb);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -35,10 +35,10 @@
   text-decoration: none;
   cursor: pointer;
   padding: 10px;
-  border: 1px solid #53c28b;
+  border: 1px solid #ae9402;
   border-radius: 5px;
   width: max-content;
-  color: #53c28b;
+  color: #ae9402;
 }
 .image {
   position: relative;
